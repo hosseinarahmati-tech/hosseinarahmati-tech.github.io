@@ -197,6 +197,18 @@ a { color: inherit; text-decoration: none; }
 .gallery__item--tall { grid-row: span 2; }
 .gallery__item--wide { grid-column: span 2; }
 
+/* ============ PROFILES ============ */
+.profiles { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.profile {
+  display: flex; flex-direction: column; gap: 4px;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 24px;
+  transition: transform .2s, border-color .2s;
+}
+.profile:hover { transform: translateY(-4px); border-color: var(--accent); }
+.profile__name { font-family: var(--display); font-size: 1.15rem; text-transform: uppercase; letter-spacing: .03em; }
+.profile__desc { color: var(--muted); font-size: .88rem; }
+
 /* ============ CONTACT ============ */
 .contact { text-align: center; max-width: 640px; margin: 0 auto; }
 .contact p { color: var(--muted); margin-bottom: 26px; font-size: 1.1rem; }
@@ -217,6 +229,7 @@ a { color: inherit; text-decoration: none; }
   .about { grid-template-columns: 1fr; }
   .medals { grid-template-columns: 1fr 1fr; }
   .gallery { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 180px; }
+  .profiles { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 520px) {
   .stats { grid-template-columns: 1fr 1fr; }
