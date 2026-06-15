@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hosseinrahmati.github.io/sitemap.xml
+Sitemap: https://hosseinarahmati-tech.github.io/sitemap.xml
