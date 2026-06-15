@@ -1,0 +1,112 @@
+FULL ENGLISH WIKIPEDIA ARTICLE DRAFT — Hossein Rahmati
+=======================================================
+
+HOW TO USE THIS
+- This is a complete, neutral, encyclopedic rewrite in Wikipedia markup (wikitext).
+- You should NOT paste it live yourself (conflict of interest). Instead, post it on the
+  article's Talk page as a proposed rewrite, with the COI note (see WIKIPEDIA-IMPROVEMENTS.md),
+  OR ask an experienced editor to review and apply it.
+- Items marked {{cn}} or [URL NEEDED] need a source link before they will be accepted.
+  Many Iranian-language sources are already cited on your Persian article
+  (https://fa.wikipedia.org/wiki/حسین_رحمتی) — those same citations can be reused here.
+- Do NOT cite Wikipedia itself as a source. Where I reference another Wikipedia article
+  below (e.g. 2010 WABA Champions Cup), use that article's own underlying sources instead.
+
+================ BEGIN WIKITEXT ================
+
+{{Short description|Iranian basketball player (born 1994)}}
+{{Infobox basketball biography
+| name        = Hossein Rahmati
+| image       =
+| position    = Center / Power forward
+| height_ft   = 6
+| height_in   = 7
+| weight_lb   = 254
+| league      = [[Basketligan|Swedish Basketball League]]
+| team        = Fryshuset Basket
+| number      = 15
+| nationality = Iranian
+| birth_date  = {{birth date and age|1994|3|21|df=y}}
+| birth_place = [[Khorramabad]], Iran
+| career_start = 2010
+| years1 = 2010–2013 | team1 = [[Mahram Tehran BC|Mahram Tehran]]
+| years2 = 2013–2014 | team2 = Afra Khalij-e Fars
+| years3 = 2014–2015 | team3 = Azad University Tehran
+| years4 = 2015–2016 | team4 = Army (Artesh)
+| years5 = 2016–2017 | team5 = Kashan Municipality
+| years6 = 2017–2018 | team6 = Avizheh Sanat Arak
+| years7 = 2018–2019 | team7 = Avizhe Sanat Parsa Mashhad
+| years8 = 2022      | team8 = [[AIK Basket]]
+| years9 = 2019–present | team9 = Fryshuset Basket
+}}
+
+'''Hossein Rahmati''' ({{lang-fa|حسین رحمتی}}; born 21 March 1994) is an Iranian
+professional [[basketball]] player who plays as a center for Fryshuset Basket in the
+[[Basketligan|Swedish Basketball League]]. He has been a member of the [[Iran men's national
+basketball team|Iran national team]] set-ups since 2009 and spent eight seasons in the
+[[Iranian Basketball Super League]] before continuing his career in Sweden.<ref name="fiba"/><ref name="eurobasket"/>
+
+== Early life ==
+Rahmati was born on 21 March 1994 in [[Khorramabad]], Iran.<ref name="fiba"/>
+
+== Club career ==
+=== Iran ===
+Rahmati began his senior career with [[Mahram Tehran BC|Mahram Tehran]], one of the most
+successful clubs in Iranian basketball, where he won the Iranian Super League in 2010 and
+2011 and the West Asian club championship in 2010.<ref name="superleague1011"/><ref name="waba2010"/>
+He subsequently played in the Iranian Super League for Afra Khalij-e Fars, Azad University
+Tehran, the Army (Artesh) team, Kashan Municipality, Avizheh Sanat Arak and Avizhe Sanat
+Parsa Mashhad, totalling eight seasons in Iran's top division.<ref name="eurobasket"/><ref name="asiabasket"/>
+With Azad University Tehran he finished third in the Super League in 2014 and runner-up in 2015.<ref name="cn1">[URL NEEDED — Iranian sports news, e.g. Varzesh3/ISNA]</ref>
+
+=== Sweden ===
+Rahmati moved to Sweden, where he has played in the Swedish Basketball League. He represented
+[[AIK Basket]] in Stockholm in 2022 before playing for Fryshuset Basket.<ref name="aik">[URL NEEDED — aikbasket.se official announcement]</ref><ref name="realgm"/>
+
+== National team ==
+Rahmati has represented Iran at youth and senior level since 2009.<ref name="isna"/> With the
+national team he won the West Asian Championship in Tehran (2010) and in Lebanon (2011),
+took bronze at the Asian Youth Championship in Mongolia (2012), and competed at the FIBA
+World Youth Championship in Prague (2012) and the [[William Jones Cup]] in Chinese Taipei
+(2014 and 2017).<ref name="cn2">[URL NEEDED — federation / Iranian sports news]</ref>
+In 2024 he played 3x3 basketball for Iran, winning a bronze medal at the World Company Sport
+Games in [[Catania]], Italy.<ref name="cn3">[URL NEEDED — event organiser or news]</ref>
+
+== Honours ==
+'''Mahram Tehran'''
+* Iranian Basketball Super League: 2010, 2011
+* West Asian club championship: 2010
+
+'''Azad University Tehran'''
+* Iranian Basketball Super League runner-up: 2015
+
+'''Iran national team'''
+* West Asian Championship: 2010, 2011
+* Asian Youth Championship: bronze – 2012
+* 3x3, World Company Sport Games: bronze – 2024
+
+== References ==
+{{reflist}}
+
+<!-- Define the named references below; fill any [URL NEEDED] before submitting.
+<ref name="fiba">FIBA profile, https://www.fiba.basketball/en</ref>
+<ref name="eurobasket">Hossein Rahmati, Eurobasket, https://basketball.eurobasket.com/player/Hossein-Rahmati/260188</ref>
+<ref name="asiabasket">Hossein Rahmati, Asia-basket, https://basketball.asia-basket.com/player/Iran/260188</ref>
+<ref name="realgm">Hossein Rahmati, RealGM, https://basketball.realgm.com/player/Hossein-Rahmati/Summary/52308</ref>
+<ref name="superleague1011">2010–11 Iranian Basketball Super League (use this article's own sources)</ref>
+<ref name="waba2010">2010 WABA Champions Cup (use this article's own sources)</ref>
+<ref name="isna">"۲۴ بسکتبالیستی که به فدراسیون جهانی معرفی شدند", ISNA {{in lang|fa}} — see citation on fa.wikipedia article</ref>
+-->
+
+== External links ==
+* {{Official website|https://hosseinarahmati-tech.github.io}}
+
+================ END WIKITEXT ================
+
+NOTES ON ACCURACY (so you can confirm before submitting)
+- Height: I used 6 ft 7 in (the figure you gave). English/Simple Wikipedia currently say
+  2.03 m (6 ft 8 in) and Swedish says 2.04 m. Pick ONE consistent number and have a source.
+- Weight: your Persian article lists 115 kg (254 lb); Swedish lists 105 kg. Same — pick one.
+- Sweden years: the exact AIK/Fryshuset seasons should be confirmed against aikbasket.se and
+  the club/RealGM pages; adjust years if needed.
+- The 2024 3x3 bronze is the least-sourced item; it may be left out until a source exists.
